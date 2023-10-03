@@ -13,4 +13,4 @@ public class HelloWorld {
     }
 }
 ```
-**撒花~**![](a mushrrom.png)
+**撒花~**![](a%20mushrrom.png)
