@@ -1,8 +1,17 @@
 #include <stdio.h>
 
+void drawMushroom() {
+    printf("     ______     \n");
+    printf("    /       \\   \n");
+    printf("   |         |  \n");
+    printf("   ___________  \n");
+    printf("     | OvO |     \n");
+
+}
+
 int main()
 {
 	printf("hello world!");
-	printf("赞美开源精神！")
+	printf("脭脼脙脌驴陋脭麓戮芦脡帽拢隆")
 	return 0;
 }
