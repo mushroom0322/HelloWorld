@@ -12,6 +12,6 @@ void drawMushroom() {
 int main()
 {
 	printf("hello world!");
-	printf("ÔÞÃÀ¿ªÔ´¾«Éñ£¡")
+        drawMushroom();
 	return 0;
 }
