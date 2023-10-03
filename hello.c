@@ -11,7 +11,7 @@ void drawMushroom() {
 
 int main()
 {
-	printf("(>ω<)Hello world!");
+	printf("Hello world ,I am mushroom!"(>ω<)");
         drawMushroom();
 	return 0;
 }
